@@ -36,6 +36,18 @@ Some questions are repeated between multiple patterns. If you solve Jump Game us
 | Next Solve Date | Automatically generated date for when you should try resolving  |
 | IsProblemCompetent | Mark it when you think you are compentent with the question |
 
+| Column header | Explanation |
+| ------ | ------ |
+| Date Solved  | Date that you solved the problem |
+| Problem No | Leetcode Number |
+| Problem Title | Leetcode title |
+| Difficulty | Leetcode Difficulty |
+| Notes |  Any  notes to help you recall the question |
+| Solved First Time? (Y/N) |  Y if you solved the question the first time you saw it, N- if not |
+| Next Solve Date | Automatically generated date for when you should try resolving  |
+| IsProblemCompetent | Mark it when you think you are compentent with the question |
+
+
 ```
 After you solve a problem, drag down the next solve date to automatically calculate when next to solve. 
 You can also use your own values
